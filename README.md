@@ -15,3 +15,7 @@ Using Apache Ignite's SQL query features, records from the table will be queried
 
 ## Objectives:
 The objective of this project is to gain a comprehensive understanding of Apache Ignite by exploring its core features and configuration. The project involves implementing data management operations such as table creation, data insertion, and querying within Ignite. Additionally, it aims to evaluate the performance of Ignite in terms of data processing and querying, assessing its efficiency for real-time data management tasks.
+
+
+# Results
+<img width="1263" alt="Ekran Resmi 2024-08-05 09 54 30" src="https://github.com/user-attachments/assets/7cd66c8a-6a0e-44a5-85e1-566f2771ac3e">
