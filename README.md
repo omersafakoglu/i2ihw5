@@ -14,9 +14,4 @@ Example records will be inserted into the table, and the accuracy of data insert
 Using Apache Ignite's SQL query features, records from the table will be queried and displayed. This will be achieved through a Java application.
 
 ## Objectives:
-Familiarization with Apache Ignite: Understand the core features and configuration of Apache Ignite.
-Data Management: Implement table creation, data insertion, and querying operations using Ignite.
-Performance Testing: Assess Ignite’s data processing and query performance, and evaluate its efficiency in managing real-time data.
-This project is designed to explore the practical applications of Apache Ignite and demonstrate its capabilities in high-performance data processing and management.
-
-
+The objective of this project is to gain a comprehensive understanding of Apache Ignite by exploring its core features and configuration. The project involves implementing data management operations such as table creation, data insertion, and querying within Ignite. Additionally, it aims to evaluate the performance of Ignite in terms of data processing and querying, assessing its efficiency for real-time data management tasks.
